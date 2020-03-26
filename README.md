@@ -1,2 +1,2 @@
 # TestingJenkins 1...2...3...
-Changed the ip to public ip
+Changed the ip to public ip address. let see if it is works.
